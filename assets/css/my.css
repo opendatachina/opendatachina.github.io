@@ -1,0 +1,27 @@
+
+
+#partners h2 {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.partner {
+  width: 25%;
+  float: left;
+  text-align: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.partner img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .partner {
+    width: 50%;
+  }
+}
