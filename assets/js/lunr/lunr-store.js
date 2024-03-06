@@ -40,4 +40,22 @@ var store = [{
         "tags": ["Jekyll","update"],
         "url": "/blog/welcome-to-jekyll/",
         "teaser": null
-      },]
+      },{
+        "title": "Data Insitution for Public-Interest Data",
+        "excerpt":"The Data Institution explores the concept of third-party data stewardship to facilitate better data circulation and value realization. In China, the current demand for public data is forcing the government to consider how to introduce third-party market forces to overcome the dilemma of the government’s singular administrative power, which lacks...","categories": [],
+        "tags": [],
+        "url": "/projects/data-institution-for-public-interest-data/",
+        "teaser": "/assets/images/datainstitution-banner.png"
+      },{
+        "title": "Digital Rights Guide for Everyone",
+        "excerpt":"What does digital rights mean for the average person? We embarked on this work with such questions in mind. In this era where everyone discusses big data and artificial intelligence, the regulation and governance of technology often fall into a specialized, singular perspective, where it seems only governments, lawyers, and...","categories": [],
+        "tags": [],
+        "url": "/projects/digital-rights-for-everyone/",
+        "teaser": "/assets/images/digitalrightsforeveryone-banner-small.png"
+      },{
+        "title": "Open Data for AI",
+        "excerpt":"In the AI era, the meaning, significance, and rules of open data are being challenged. Under this initiative, we are attempting to explore and respond to three questions: What paradigm shifts are there for open data in the AI era? What new rules do we need to regulate the open...","categories": [],
+        "tags": [],
+        "url": "/projects/open-data-for-ai/",
+        "teaser": "/assets/images/opendata4AI-banner.png"
+      }]
