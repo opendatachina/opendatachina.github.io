@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "http://digitalrights.opendatachina.org/*"
+  to = "https://opendatachina.feishu.cn/wiki/space/7281895137683488771?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home"
+  status = 301
+  force = True
